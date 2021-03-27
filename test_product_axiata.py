@@ -6,7 +6,7 @@ import json
 
 class TestAxiataProduct(unittest.TestCase):
     """
-    Test Automation API
+    Test Automation API coba lagi semoga beruntung
     - Create Product
     - Detail Product
     - Update Product
